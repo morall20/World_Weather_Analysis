@@ -4,6 +4,7 @@
 
 ## Resource
 Data: Google Maps APIs, WeatherPy_Database_csv, WeatherPy_vacation.csv
+
 Software: Python 3.9, VS Code 1.56.2, Jupyter Notebook
 
 ## Overview
